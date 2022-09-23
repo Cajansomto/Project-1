@@ -1,0 +1,106 @@
+body {
+  background-image: url(../images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding-top: 50px;
+  font-family: sans-serif;
+  background-color: hsl(225, 100%, 94%);
+}
+
+.container {
+  background-color: #fff;
+  margin: auto;
+  width: 450px;
+  border-radius: 30px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 2rem;
+  margin-top: 40px;
+}
+
+.title-p {
+  line-height: 2;
+  font-weight: normal;
+  color: grey;
+  margin: 10px 50px 5px 50px;
+}
+
+.plan {
+  background: hsl(225, 100%, 98%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.annual {
+  margin-left: 25px;
+  width: 10rem;
+  text-align: left;
+}
+
+.annual h2 {
+  line-height: .6;
+}
+
+.music {
+  margin-left: 15px;
+
+}
+
+.changee {
+  margin: 0 5px 0 100px;
+  color: hsl(245, 75%, 52%);
+}
+
+.plan-p {
+  color: grey
+}
+
+.first {
+  background-color: hsl(245, 75%, 52%);
+  color: #fff;
+  font-weight: bold;
+  padding: 15px;
+  cursor: mostly people use default;
+  or pointer YEAH thats what isee in most webs width: 20rem;
+  margin: 15px 0;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 5px 5px 5px #000;
+  and you can choose color for it its ok now have access lol
+}
+
+.second {
+  padding: 15px;
+  cursor: pointer;
+  width: 20rem;
+  background-color: #fff;
+  margin: 15px 0;
+  border-radius: 5px;
+  border: none;
+}
+
+.hero-image {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.attribution {
+  font-weight: lighter;
+  margin-top: 15px;
+}
+
+
+
+/* i commented it you can use later */
+/* display: flex;
+flex-direction: column;
+text-align: center;
+padding-top: 50px;
+font-family: sans-serif;
+background-color: hsl(225, 100%, 94%); */
